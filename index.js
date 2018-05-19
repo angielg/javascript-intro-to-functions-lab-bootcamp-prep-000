@@ -14,4 +14,6 @@ function sayHiToGrandma(string) {
   var uppercase = "HELLO", lowercase = "hello!", mixedCase = 'Hi there!'
   console.log(lowercase)
   return "I can't hear you!"
+  console.log(uppercase)
+  return "YES INDEED!"
 }
