@@ -10,8 +10,8 @@ function logShout(string) {
 function logWhisper(string) {
   console.log('hello')
 }
-function sayHiToGrandma(string) {
-  var uppercase = "HELLO", lowercase = "hello!", mixedCase = 'Hi there!'
+function sayHiToGrandma(hello) {
+  
   console.log(lowercase)
   return "I can't hear you!"
   console.log(uppercase)
